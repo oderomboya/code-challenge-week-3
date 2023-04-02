@@ -1,0 +1,37 @@
+body{
+
+background-color: gray !important;;
+
+}
+
+
+#nav-tab {
+    color: aliceblue;
+  
+    text-align: center;
+  }
+  
+  #menu {
+    display: flex;
+  }
+  img {
+    width: 240px;
+    border: 2px solid black;
+  }
+  #display {
+    background: url("https://c4.wallpaperflare.com/wallpaper/275/883/590/spiderman-ps4-spiderman-ps4-games-hd-wallpaper-preview.jpg");
+    background-repeat:no-repeat;
+
+    background-size:cover;
+    background-color: rgba(169, 206, 228, 0.733);
+    text-align: center;
+    color: white;
+    margin-left: 10%;
+    margin-right: 15%;
+  }
+  
+  ul {
+    margin-top: 0%;
+    color: aliceblue;
+    padding: 0%, 5%, 2%, 2%;
+  }
