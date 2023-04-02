@@ -15,7 +15,7 @@ function movie() {
           a.style.textDecoration = "none";
   
           a.textContent = filmData[i].title;
-          li.appendChild(a);
+          li.append(a);
           filmsList.appendChild(li);
   
           a.addEventListener("click", () => {
